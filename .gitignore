@@ -1,0 +1,13 @@
+.buildozer/
+bin/
+__pycache__/
+*.pyc
+build.log
+build2.log
+build_full.log
+build_update.log
+main_backup.py
+main_backup_final.py
+main_backup_safe.py
+main_before_apk.py
+buildozer.spec.backup
