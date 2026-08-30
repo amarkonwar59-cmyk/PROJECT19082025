@@ -496,3 +496,4 @@ warn_on_root = 1
 #
 #   Environment variable overrides have priority over profile overrides.
 android.build_tools_version = 35.0.0
+android.accept_sdk_license = True
